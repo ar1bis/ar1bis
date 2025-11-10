@@ -1,6 +1,6 @@
 ## Arindam Biswas
 
-Algorithm engineer specializing in optimization and graph algorithms who likes to code in C# and Java.
+Software Architect specializing in optimization and graph algorithms who likes to code in C# and Java.
 
 - Route Planning 🛣
 - Scheduling ⏲
