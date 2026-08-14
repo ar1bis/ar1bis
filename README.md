@@ -1,6 +1,6 @@
 ## Arindam Biswas
 
-Software Architect specializing in optimization and graph algorithms who likes to code in C# and C++.
+Software Architect specializing in optimization and graph algorithms, who likes to code in C# and C++.
 - Route Planning
 - Scheduling
 - Monte Carlo Simulations
