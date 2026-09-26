@@ -9,6 +9,7 @@ Software Architect specializing in optimization and graph algorithms, likes to c
 Don't hesitate to get in touch if you would like me to give a talk at your tech meetup.
 
 ### 📬 Contact Information
+
 - **LinkedIn**: [Arindam Biswas](https://www.linkedin.com/in/arindam-biswas-phd/)
 - **Website**: [ar1bis.com](https://ar1bis.com/)
 
